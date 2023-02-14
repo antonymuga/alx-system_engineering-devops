@@ -5,3 +5,5 @@
 ## 0x01-shell_permissions -- *contains scripts for shell permissions written in bash*
 
 ## 0x02-shell_redirections -- *contains scripts for shell redirections written in bash*
+
+## 0x03-shell_variables_expansions -- *contains scripts for shell variable manipulation*
